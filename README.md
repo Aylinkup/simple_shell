@@ -1,4 +1,4 @@
 0x16. C - Simple Shell team project
- Meambers - 
+Team Members - 
 Ayotunde Oluleke and 
 Kelvin Uchechukwu
